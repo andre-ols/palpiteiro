@@ -6,10 +6,9 @@
 	:heavy_check_mark:  Palpiteiro ⚽🚀 Done! :heavy_check_mark:
 </h4>
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andre-ols/palpiteiro">
 
 <a href="https://www.linkedin.com/in/andre-ols/">
-    <img alt="Made by André Oliveira" src="https://img.shields.io/badge/made%20by-Fellipe%20Utaka-%2304D361">
+    <img alt="Made by André Oliveira" src="https://img.shields.io/badge/made%20by-André%20Oliveira-%2304D361">
   </a>
 
 <a aria-label="Completed" href="https://lp.rocketseat.com.br/nlw">
@@ -24,15 +23,6 @@
    <a href="https://github.com/andre-ols/palpiteiro/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/andre-ols/palpiteiro?style=social">
   </a>
-</p>
-<p align="center">
-  <a href="#-nlw">Next Level Week</a>   |   
-  <a href="#-project">Project</a>   |   
-  <a href="#rocket-Technologies">Technologies</a>   |   
-  <a href="#-layout">Layout</a>   |   
-  <a href="#-how-to-use">How to use</a>   |   
-  <a href="#-how-to-contribute">How to contribute</a>   |   
-  <a href="#memo-license">License</a>   |   
 </p>
 
 ## ℹ️ What's Next Level Week?
